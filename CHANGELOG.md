@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.61.0](https://github.com/scenario-labs/skills/compare/skills-v0.60.1...skills-v0.61.0) (2026-11-05)
+
+
+### Features
+
+* **scenario-blender-blockout:** add a bicycle kind and a rider recipe ([#315](https://github.com/scenario-labs/skills/issues/315)) ([d12e237](https://github.com/scenario-labs/skills/commit/d12e237c7fbdb5ac15024252af0b4b327997f770))
+
+
+### Bug Fixes
+
+* **skills:** close the file handles skill scripts left open ([#368](https://github.com/scenario-labs/skills/issues/368)) ([340a715](https://github.com/scenario-labs/skills/commit/340a715e3424c54b46a799980ee80f3075530fea))
+
+
+### Documentation
+
+* **scenario:** stop calling asset_download write-class ([#341](https://github.com/scenario-labs/skills/issues/341)) ([5d68b48](https://github.com/scenario-labs/skills/commit/5d68b48b70db3388e1ac3e064810d72d8fc3f7ac))
+
 ## [0.60.1](https://github.com/scenario-labs/skills/compare/skills-v0.60.0...skills-v0.60.1) (2026-10-29)
 
 
